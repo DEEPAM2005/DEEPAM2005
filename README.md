@@ -50,3 +50,10 @@
 </picture>
 
 ###
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/DEEPAM2005/DEEPAM2005/blob/output/github-snake.svg)
+<p align="center">
+  <img src="https://github.com/DEEPAM2005/Deepam2005/blob/output/github-snake-dark.svg" />
+</p>
